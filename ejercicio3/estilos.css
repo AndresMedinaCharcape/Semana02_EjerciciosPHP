@@ -1,0 +1,23 @@
+table {
+    border: 1px solid #bbb;
+    margin-bottom: 1em;
+    width: 100%;
+    border-collapse: collapse;
+}
+td,th {
+    border: 1px solid #bbb;
+    line-height: 1.7;
+    text-align: center;
+}
+
+td:hover{
+    background:#bbbbbb;
+}
+th,.th2{
+    background: dodgerblue;
+    color: black;
+}
+
+fieldset{
+    margin: 30px;
+}
